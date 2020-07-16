@@ -16,7 +16,7 @@ export const Title = styled.h1`
   text-align: center;
 `;
 
-export const ImportFileContainer = styled.section`
+export const ImportFileContainer = styled.form`
   background: #fff;
   margin-top: 40px;
   border-radius: 5px;
